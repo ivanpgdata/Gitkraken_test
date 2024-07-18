@@ -1,4 +1,5 @@
 # 🐙 MASTERING GIT WITH GITKRAKEN 🐙
+![](images/header.png)
 
 In this project I have gone through mostly all the daily tasks that a **Data Scientist** do when interacting with GIT, such as:
 
@@ -15,4 +16,4 @@ In this project I have gone through mostly all the daily tasks that a **Data Sci
 ⏫ Completing Pull and Merge requests 
 
 ⚒ Use of Releases
-
+![](images/git_pic.jpg)
