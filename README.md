@@ -1,7 +1,18 @@
-# Gitkraken_test
-This repository has been created in order to improve the performance of the Git skills.
+# 🐙 Exploring GIT with GitKraken 🐙
 
-# Tasks that have been done in this project:
-- Create branches from main branch and merge them together and to the main branch itself as if it was part of a real project.
-- Check and go to earlier versions of the "project".
-- Merge changes to a designated branch.
+In this project I have gone through mostly all the daily tasks that a **Data Scientist** do when interacting with GIT, such as:
+
+👮 Giving access to another developer
+
+👨‍👨‍👦‍👦   Cloning repo
+
+🌿 Create and merge branches to other branches and to the main one
+
+🔖 Tagging in order to have access to older versions
+
+✅ Correcting errors when merging
+
+⏫ Completing Pull and Merge requests 
+
+⚒ Use of Releases
+
