@@ -1,4 +1,4 @@
-# 🐙 Mastering GIT with GitKraken 🐙
+# 🐙 MASTERING GIT WITH GITKRAKEN 🐙
 
 In this project I have gone through mostly all the daily tasks that a **Data Scientist** do when interacting with GIT, such as:
 
