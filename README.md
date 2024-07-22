@@ -22,4 +22,4 @@ In this project I have gone through mostly all the daily tasks that a **Data Sci
 
 
 
-Huge Thank You to the developer @manucabello for opening the window of Gitkraken and teaching me how to master this useful tool
+Huge Thank You to the developer @manucabello for telling me about Gitkraken and teaching me how to master this useful tool
